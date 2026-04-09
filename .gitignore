@@ -1,0 +1,8 @@
+node_modules
+legacy_webpages
+dist
+.env
+.env.local
+__pycache__
+*.log
+.DS_Store
